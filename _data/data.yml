@@ -8,18 +8,18 @@ sidebar:
 
     # Profile information
     name: 陈波
-    tagline: Full Stack Developer
+    tagline: 前端实习生
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: tiamedue@gmail.com
-    phone: 18358474501
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    phone: 183 5847 4501
+    qq: 1242060647
+    wechat: tiamed
+    github: tiamed
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
