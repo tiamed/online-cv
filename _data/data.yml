@@ -78,27 +78,27 @@ skills:
     title: 技能清单
 
     intro: /
-      - HTML/CSS
-        - 能够编写语义化的 HTML，模块化的 CSS
-        - 熟悉BEM命名规范，了解LESS等CSS预处理器。熟悉已标准化的 HTML5 / CSS3 新特性。
+        - HTML/CSS
+          - 能够编写语义化的 HTML，模块化的 CSS
+          - 熟悉BEM命名规范，了解LESS等CSS预处理器。熟悉已标准化的 HTML5 / CSS3 新特性。
 
-      - JavaScript
-        - 熟悉 ECMAScript6规范，并能在项目中使用 
-        - 熟悉作用域、闭包、原型链等知识
-        - 了解TypeScript并准备投入实践
-      - DOM/BOM
-        - 熟悉原生 DOM 与 BOM 的使用及相关标准
-      - 前端工程化实践
-        - 熟悉CommonJS/AMD/CMD/ES6等JS模块化方案
-        - 熟练使用 Vue.js 并层编写过较为复杂的 SPA
-        - 了解前端 MVVM 模型 熟悉jQuery/Bootstrap的使用、定制与扩展
-        - 能使用Webpack进行模块化打包，使用Babel进行polyfill方案配置
+        - JavaScript
+          - 熟悉 ECMAScript6规范，并能在项目中使用 
+          - 熟悉作用域、闭包、原型链等知识
+          - 了解TypeScript并准备投入实践
+        - DOM/BOM
+          - 熟悉原生 DOM 与 BOM 的使用及相关标准
+        - 前端工程化实践
+          - 熟悉CommonJS/AMD/CMD/ES6等JS模块化方案
+          - 熟练使用 Vue.js 并层编写过较为复杂的 SPA
+          - 了解前端 MVVM 模型 熟悉jQuery/Bootstrap的使用、定制与扩展
+          - 能使用Webpack进行模块化打包，使用Babel进行polyfill方案配置
 
-      - 了解后端Django、Spring框架
-      - 能使用Node.js编写简单的后端程序
-      - 了解HTTP、TCP/IP、 WebSocket等协议 
+        - 了解后端Django、Spring框架
+        - 能使用Node.js编写简单的后端程序
+        - 了解HTTP、TCP/IP、 WebSocket等协议 
 
-      - 熟练使用Git、postman、WebStorm、VSCode、PS、AI、Axure、XD等工具。
+        - 熟练使用Git、postman、WebStorm、VSCode、PS、AI、Axure、XD等工具。
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">tiamed</a>
