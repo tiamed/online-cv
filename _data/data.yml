@@ -3,198 +3,103 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: 陈波
+    tagline: 前端实习生
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+    email: tiamedue@gmail.com
+    phone: 18358474501
+    github: tiamed
 
     interests:
-      - item: Climbing
+      - title: 兴趣爱好
+      - item: 爬山
         link:
 
-      - item: Snowboarding
+      - item: 尤克里里
         link:
 
-      - item: Cooking
+      - item: 做饭
         link:
-
-career-profile:
-    title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: 软件工程专业本科
+      university: 浙江科技学院
+      time: 2016 - 2020
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+          - 英语四六级:  619/578
+          - 2018外包大赛国三等奖
+          - 2017互联网加省三等奖
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+  - title: 项目经历
+    - role: [MuseArt](https://github.com/MusesArt/MusesWeb)
+      time: 2018.10 - 2019.01
+      company: 服务外包大赛参赛作品
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+          - 利用AI技术实现风格迁移的装饰画商城，主要实现商品详情、购物车、结算、个人中心
+          - 主要负责：需求分析、数据库设计、订单接口、购物车订单及个人中心的前端页面构建及数据交互
+          - 使用技术：VUX/Vue.js/vue-router/vue-scroller/webpack/axios
+          - 项目成果：国家大学生创新创业项目、软件著作权
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: [学生事务管理系统](https://github.com/tiamed/ischool)
+      time: 2017.02 - 2017.05
+      company: 计算机设计大赛参赛作品
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - 主要实现信息征集、定位签到、专业分流、活动报名
+          - 主要负责：自适应页面布局、自定义生成表单交互逻辑、浏览器端定位
+          - 使用技术：Bootstrap/jQuery/Mustache/媒体查询/高德地图API
+          - 项目成果：计算机设计大赛国二等奖、国家大学生创新创业项目、软件著作权、国际会议论文（第一作者）
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: [SpaceX任务统计demo](https://github.com/tiamed/spacex-graphql-demo)
+      time: 2018.03 - 至今
+      company: 个人项目
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+          - 主要实现任务查看、接口定义及编写
+          - 主要负责：格式化日期、条件化样式、nodejs中间层
+          - 使用技术：Bootstrap/classnames/moment/React/Apollo/graphQL/express
 
-          - Bullet point
-          - Bullet point
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: 学术论文
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: [Student affairs management system design based on mobile application EAider](https://ieeexplore.ieee.org/document/8085524/)
+        authors: Chen Bo ; Cen Gang ; Feng Tianxiang ; Shen Feixin
+        conference: 2017 12th International Conference on Computer Science and Education (ICCSE)
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 技能清单
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+    intro: /
+      - HTML/CSS
+        - 能够编写语义化的 HTML，模块化的 CSS
+        - 熟悉BEM命名规范，了解LESS等CSS预处理器。熟悉已标准化的 HTML5 / CSS3 新特性。
 
-      - name: Javascript & jQuery
-        level: 98%
+      - JavaScript
+        - 熟悉 ECMAScript6规范，并能在项目中使用 
+        - 熟悉作用域、闭包、原型链等知识
+        - 了解TypeScript并准备投入实践
+      - DOM/BOM
+        - 熟悉原生 DOM 与 BOM 的使用及相关标准
+      - 前端工程化实践
+        - 熟悉CommonJS/AMD/CMD/ES6等JS模块化方案
+        - 熟练使用 Vue.js 并层编写过较为复杂的 SPA
+        - 了解前端 MVVM 模型 熟悉jQuery/Bootstrap的使用、定制与扩展
+        - 能使用Webpack进行模块化打包，使用Babel进行polyfill方案配置
 
-      - name: Angular
-        level: 98%
+      - 了解后端Django、Spring框架
+      - 能使用Node.js编写简单的后端程序
+      - 了解HTTP、TCP/IP、 WebSocket等协议 
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - 熟练使用Git、postman、WebStorm、VSCode、PS、AI、Axure、XD等工具。
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">tiamed</a>
